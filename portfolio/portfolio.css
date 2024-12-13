@@ -27,7 +27,7 @@ body {
 }
 
 .nav-link {
-    color: #101010 !important;
+    color: #101010;
     font-weight: bold;
     padding: 8px 15px;
     transition: all 0.3s ease-in-out;
@@ -35,7 +35,7 @@ body {
 
 .nav-link:hover {
     background-color: rgba(255, 255, 255, 0.1);
-    color: #0d0d0d !important;
+    color: #0d0d0d ;
     border-radius: 5px;
 }
 
